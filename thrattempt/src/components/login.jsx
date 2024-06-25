@@ -6,7 +6,7 @@ export const Registration = () => {
       <div className="bg-white w-1/4 py-4 px-6 ">
         <img
           className="w-1/3 aspect-square flex m-auto rounded-md"
-          src="/logo-blue.jpg"
+          src="/logo.png"
           alt="Logo"
         />
         <h1 className="text-center text-xl font-bold">Log in</h1>
