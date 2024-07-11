@@ -4,7 +4,7 @@ import { Registration } from "./components/login";
 function App() {
   return (
     <>
-      <div className="h-screen bg-gradient-to-r from-[#0bb5ff] to-[#b3fffd]">
+      <div className="h-screen ">
         <Header />
         <div>
           <Registration />
